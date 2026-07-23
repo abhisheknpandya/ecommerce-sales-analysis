@@ -1,23 +1,23 @@
-# Ecommerce Sales Analysis
+# E-commerce Sales Analysis
 
-Commercial analytics project exploring retail sales performance and profitability through data-driven insight
+Commercial analytics project exploring sales performance, customer purchasing trends, and profitability through data-driven insights.
 
-Overview
+## Overview
 
-Business Context
+## Business Context
 
-Business Question
+## Business Questions
 
-Dataset
+## Dataset
 
-Methodology
+## Methodology
 
-Dashboard
+## Dashboard
 
-Key Insights
+## Key Insights
 
-Recommendations
+## Recommendations
 
-Reflection
+## Reflection
 
-Skills Demonstrated
+## Skills Demonstrated
