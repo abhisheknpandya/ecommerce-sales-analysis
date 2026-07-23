@@ -2,18 +2,22 @@
 
 Commercial analytics project exploring retail sales performance and profitability through data-driven insight
 
-## Overview
+Overview
 
-## Business Context
+Business Context
 
-## Business Question
+Business Question
 
-## Dataset
+Dataset
 
-## Approach
+Methodology
 
-## Key Findings
+Dashboard
 
-## Recommendations
+Key Insights
 
-## Skills Demonstrated
+Recommendations
+
+Reflection
+
+Skills Demonstrated
