@@ -1,4 +1,4 @@
-# Retail Profitability Analysis
+# Ecommerce Sales Analysis
 
 Commercial analytics project exploring retail sales performance and profitability through data-driven insight
 
